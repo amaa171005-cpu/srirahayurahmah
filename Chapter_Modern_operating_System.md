@@ -16,3 +16,19 @@ Menambahkan penjelasan tentang langkah dasar penggunaan Git.
 
 Menambahkan materi tentang cabang kode dan cara menggabungkannya.
 
+\# Section 1.5 Menambahkan contoh penggunaan GitHub
+
+Berisi contoh cara menggunakan GitHub untuk menyimpan dan berbagi proyek.
+
+\# Section 1.6 Perbaikan struktur folder dan file proyek
+
+→ Mengatur ulang file agar lebih rapi dan terstruktur.
+
+\# Section 1.7 Menambahkan panduan penggunaan Markdown di GitHub
+
+Menjelaskan cara menulis teks format Markdown di GitHub.
+
+\# Section 1.8 Update dokumentasi commit dan push
+
+Memperbarui penjelasan cara menyimpan dan mengunggah perubahan.
+
