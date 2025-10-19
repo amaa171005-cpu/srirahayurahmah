@@ -32,3 +32,19 @@ Menjelaskan cara menulis teks format Markdown di GitHub.
 
 Memperbarui penjelasan cara menyimpan dan mengunggah perubahan.
 
+\# Section 1.9 Menambahkan penjelasan tentang version control
+
+Menjelaskan konsep dasar sistem pengendalian versi dalam Git.
+
+\# Section 1.10 Membuat commit latihan Git dan GitHub
+
+Commit latihan untuk memahami cara kerja Git dan GitHub.
+
+\# Section 1.11 pengertian Git
+
+adalah sistem pengendalian versi untuk mencatat perubahan file pada proyek.
+
+\# Section 1.12 Fungsi Git
+
+melacak versi, bekerja sama dalam tim, dan mengembalikan versi lama.
+
